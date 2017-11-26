@@ -4,7 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "f2a8d39d22a526db9ea5d047fdd11e7b",
+    "hash": "5e77ea5b51fbb01365d1403a705748d3",
+    "content-hash": "06ca1b54974b4f3412703cce78d53939",
     "packages": [
         {
             "name": "aura/di",
@@ -57,7 +58,7 @@
                 "di",
                 "di container"
             ],
-            "time": "2017-07-30T04:14:30+00:00"
+            "time": "2017-07-30 04:14:30"
         },
         {
             "name": "bitexpert/disco",
@@ -109,7 +110,7 @@
                 }
             ],
             "description": "Dependency Injection Container",
-            "time": "2017-06-15T10:37:13+00:00"
+            "time": "2017-06-15 10:37:13"
         },
         {
             "name": "bitexpert/slf4psrlog",
@@ -155,7 +156,7 @@
                 }
             ],
             "description": "Simple Logging Facade for Loggers implementing PSR-3 logging interface.",
-            "time": "2015-10-18T15:43:07+00:00"
+            "time": "2015-10-18 15:43:07"
         },
         {
             "name": "bower-asset/inputmask",
@@ -294,7 +295,7 @@
                 "markdown",
                 "markdown-extra"
             ],
-            "time": "2017-07-16T21:13:23+00:00"
+            "time": "2017-07-16 21:13:23"
         },
         {
             "name": "container-interop/container-interop",
@@ -325,7 +326,7 @@
             ],
             "description": "Promoting the interoperability of container objects (DIC, SL, etc.)",
             "homepage": "https://github.com/container-interop/container-interop",
-            "time": "2017-02-14T19:40:03+00:00"
+            "time": "2017-02-14 19:40:03"
         },
         {
             "name": "container-interop/definition-interop",
@@ -352,7 +353,7 @@
                 "MIT"
             ],
             "description": "Promoting container interoperability through standard definitions",
-            "time": "2015-11-30T17:49:54+00:00"
+            "time": "2015-11-30 17:49:54"
         },
         {
             "name": "doctrine/annotations",
@@ -420,7 +421,7 @@
                 "docblock",
                 "parser"
             ],
-            "time": "2017-07-22T10:58:02+00:00"
+            "time": "2017-07-22 10:58:02"
         },
         {
             "name": "doctrine/cache",
@@ -494,7 +495,7 @@
                 "cache",
                 "caching"
             ],
-            "time": "2017-08-25T07:02:50+00:00"
+            "time": "2017-08-25 07:02:50"
         },
         {
             "name": "doctrine/lexer",
@@ -548,7 +549,7 @@
                 "lexer",
                 "parser"
             ],
-            "time": "2014-09-09T13:34:57+00:00"
+            "time": "2014-09-09 13:34:57"
         },
         {
             "name": "ezyang/htmlpurifier",
@@ -595,7 +596,7 @@
             "keywords": [
                 "html"
             ],
-            "time": "2017-06-03T02:28:16+00:00"
+            "time": "2017-06-03 02:28:16"
         },
         {
             "name": "illuminate/container",
@@ -639,7 +640,7 @@
             ],
             "description": "The Illuminate Container package.",
             "homepage": "https://laravel.com",
-            "time": "2017-08-14T18:00:01+00:00"
+            "time": "2017-08-14 18:00:01"
         },
         {
             "name": "illuminate/contracts",
@@ -683,7 +684,7 @@
             ],
             "description": "The Illuminate Contracts package.",
             "homepage": "https://laravel.com",
-            "time": "2017-09-19T13:09:37+00:00"
+            "time": "2017-09-19 13:09:37"
         },
         {
             "name": "jeremeamia/SuperClosure",
@@ -741,7 +742,7 @@
                 "serialize",
                 "tokenizer"
             ],
-            "time": "2016-12-07T09:37:55+00:00"
+            "time": "2016-12-07 09:37:55"
         },
         {
             "name": "jshannon63/cobalt",
@@ -797,7 +798,7 @@
                 "reflective-injection",
                 "service-container"
             ],
-            "time": "2017-11-17T16:39:22+00:00"
+            "time": "2017-11-17 16:39:22"
         },
         {
             "name": "level-2/dice",
@@ -840,7 +841,7 @@
                 "di",
                 "ioc"
             ],
-            "time": "2017-02-22T16:21:30+00:00"
+            "time": "2017-02-22 16:21:30"
         },
         {
             "name": "mikey179/vfsStream",
@@ -886,7 +887,7 @@
             ],
             "description": "Virtual file system to mock the real file system in unit tests.",
             "homepage": "http://vfs.bovigo.org/",
-            "time": "2017-08-01T08:02:14+00:00"
+            "time": "2017-08-01 08:02:14"
         },
         {
             "name": "mouf/picotainer",
@@ -934,7 +935,7 @@
                 "dependency injection",
                 "di"
             ],
-            "time": "2017-03-09T09:19:17+00:00"
+            "time": "2017-03-09 09:19:17"
         },
         {
             "name": "nikic/php-parser",
@@ -985,7 +986,7 @@
                 "parser",
                 "php"
             ],
-            "time": "2017-11-04T11:48:34+00:00"
+            "time": "2017-11-04 11:48:34"
         },
         {
             "name": "ocramius/package-versions",
@@ -1034,7 +1035,7 @@
                 }
             ],
             "description": "Composer plugin that provides efficient querying for installed package versions (no runtime IO)",
-            "time": "2017-09-06T15:24:43+00:00"
+            "time": "2017-09-06 15:24:43"
         },
         {
             "name": "ocramius/proxy-manager",
@@ -1103,7 +1104,7 @@
                 "proxy pattern",
                 "service proxies"
             ],
-            "time": "2017-05-04T11:12:50+00:00"
+            "time": "2017-05-04 11:12:50"
         },
         {
             "name": "opulence/ioc",
@@ -1155,7 +1156,7 @@
                 "ioc",
                 "php"
             ],
-            "time": "2017-10-20T02:07:12+00:00"
+            "time": "2017-10-20 02:07:12"
         },
         {
             "name": "php-di/invoker",
@@ -1198,7 +1199,7 @@
                 "invoke",
                 "invoker"
             ],
-            "time": "2017-03-20T19:28:22+00:00"
+            "time": "2017-03-20 19:28:22"
         },
         {
             "name": "php-di/php-di",
@@ -1206,12 +1207,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHP-DI/PHP-DI.git",
-                "reference": "6cb173ab9beb6c11463756b675d8033a11e422ec"
+                "reference": "4b4e0441d0d975463a7752321ed7d2286de20ce9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHP-DI/PHP-DI/zipball/6cb173ab9beb6c11463756b675d8033a11e422ec",
-                "reference": "6cb173ab9beb6c11463756b675d8033a11e422ec",
+                "url": "https://api.github.com/repos/PHP-DI/PHP-DI/zipball/4b4e0441d0d975463a7752321ed7d2286de20ce9",
+                "reference": "4b4e0441d0d975463a7752321ed7d2286de20ce9",
                 "shasum": ""
             },
             "require": {
@@ -1260,7 +1261,7 @@
                 "ioc",
                 "psr11"
             ],
-            "time": "2017-11-14T20:12:06+00:00"
+            "time": "2017-11-25 09:13:27"
         },
         {
             "name": "php-di/phpdoc-reader",
@@ -1297,7 +1298,7 @@
                 "phpdoc",
                 "reflection"
             ],
-            "time": "2015-11-29T10:34:25+00:00"
+            "time": "2015-11-29 10:34:25"
         },
         {
             "name": "phpixie/di",
@@ -1345,7 +1346,7 @@
                 "dependency injection",
                 "di"
             ],
-            "time": "2016-05-25T09:21:03+00:00"
+            "time": "2016-05-25 09:21:03"
         },
         {
             "name": "pimple/pimple",
@@ -1395,7 +1396,7 @@
                 "container",
                 "dependency injection"
             ],
-            "time": "2017-07-23T07:32:15+00:00"
+            "time": "2017-07-23 07:32:15"
         },
         {
             "name": "psr/container",
@@ -1444,7 +1445,7 @@
                 "container-interop",
                 "psr"
             ],
-            "time": "2017-02-14T16:28:37+00:00"
+            "time": "2017-02-14 16:28:37"
         },
         {
             "name": "psr/log",
@@ -1491,7 +1492,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2016-10-10T12:19:37+00:00"
+            "time": "2016-10-10 12:19:37"
         },
         {
             "name": "psr/simple-cache",
@@ -1539,7 +1540,7 @@
                 "psr-16",
                 "simple-cache"
             ],
-            "time": "2017-01-02T13:31:39+00:00"
+            "time": "2017-01-02 13:31:39"
         },
         {
             "name": "rdlowrey/auryn",
@@ -1600,7 +1601,7 @@
                 "dic",
                 "ioc"
             ],
-            "time": "2017-05-15T06:26:46+00:00"
+            "time": "2017-05-15 06:26:46"
         },
         {
             "name": "symfony/config",
@@ -1662,29 +1663,29 @@
             ],
             "description": "Symfony Config Component",
             "homepage": "https://symfony.com",
-            "time": "2017-11-19T20:09:36+00:00"
+            "time": "2017-11-19 20:09:36"
         },
         {
             "name": "symfony/dependency-injection",
-            "version": "v3.4.0-RC1",
+            "version": "v4.0.0-RC1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/dependency-injection.git",
-                "reference": "07a9ad89cc9baf9e1ffe57b8ba2b0da57de2a7ba"
+                "reference": "3c2a7467050d7fc6876822607be0889cab3cd3f4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/dependency-injection/zipball/07a9ad89cc9baf9e1ffe57b8ba2b0da57de2a7ba",
-                "reference": "07a9ad89cc9baf9e1ffe57b8ba2b0da57de2a7ba",
+                "url": "https://api.github.com/repos/symfony/dependency-injection/zipball/3c2a7467050d7fc6876822607be0889cab3cd3f4",
+                "reference": "3c2a7467050d7fc6876822607be0889cab3cd3f4",
                 "shasum": ""
             },
             "require": {
-                "php": "^5.5.9|>=7.0.8",
+                "php": "^7.1.3",
                 "psr/container": "^1.0"
             },
             "conflict": {
-                "symfony/config": "<3.3.1",
-                "symfony/finder": "<3.3",
+                "symfony/config": "<3.4",
+                "symfony/finder": "<3.4",
                 "symfony/proxy-manager-bridge": "<3.4",
                 "symfony/yaml": "<3.4"
             },
@@ -1692,8 +1693,8 @@
                 "psr/container-implementation": "1.0"
             },
             "require-dev": {
-                "symfony/config": "~3.3|~4.0",
-                "symfony/expression-language": "~2.8|~3.0|~4.0",
+                "symfony/config": "~3.4|~4.0",
+                "symfony/expression-language": "~3.4|~4.0",
                 "symfony/yaml": "~3.4|~4.0"
             },
             "suggest": {
@@ -1706,7 +1707,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.4-dev"
+                    "dev-master": "4.0-dev"
                 }
             },
             "autoload": {
@@ -1733,7 +1734,7 @@
             ],
             "description": "Symfony DependencyInjection Component",
             "homepage": "https://symfony.com",
-            "time": "2017-11-21T15:44:44+00:00"
+            "time": "2017-11-21 17:21:10"
         },
         {
             "name": "symfony/filesystem",
@@ -1782,7 +1783,7 @@
             ],
             "description": "Symfony Filesystem Component",
             "homepage": "https://symfony.com",
-            "time": "2017-11-19T18:59:05+00:00"
+            "time": "2017-11-19 18:59:05"
         },
         {
             "name": "symfony/polyfill-php56",
@@ -1838,7 +1839,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-10-11T12:05:26+00:00"
+            "time": "2017-10-11 12:05:26"
         },
         {
             "name": "symfony/polyfill-util",
@@ -1890,7 +1891,7 @@
                 "polyfill",
                 "shim"
             ],
-            "time": "2017-10-11T12:05:26+00:00"
+            "time": "2017-10-11 12:05:26"
         },
         {
             "name": "symfony/process",
@@ -1939,7 +1940,7 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
-            "time": "2017-11-13T18:20:08+00:00"
+            "time": "2017-11-13 18:20:08"
         },
         {
             "name": "thecodingmachine/yaco",
@@ -1978,7 +1979,7 @@
                 "MIT"
             ],
             "description": "YACO (Yet Another COmpiler) is a PHP tool that generates a PHP container based on entry definitions.",
-            "time": "2016-03-01T17:08:11+00:00"
+            "time": "2016-03-01 17:08:11"
         },
         {
             "name": "woohoolabs/zen",
@@ -2039,7 +2040,7 @@
                 "ioc",
                 "zen"
             ],
-            "time": "2017-09-05T14:00:32+00:00"
+            "time": "2017-09-05 14:00:32"
         },
         {
             "name": "yiisoft/yii2",
@@ -2139,7 +2140,7 @@
                 "framework",
                 "yii2"
             ],
-            "time": "2017-11-14T11:08:21+00:00"
+            "time": "2017-11-14 11:08:21"
         },
         {
             "name": "yiisoft/yii2-composer",
@@ -2189,7 +2190,7 @@
                 "extension installer",
                 "yii2"
             ],
-            "time": "2016-12-20T13:26:02+00:00"
+            "time": "2016-12-20 13:26:02"
         },
         {
             "name": "zendframework/zend-code",
@@ -2242,7 +2243,7 @@
                 "code",
                 "zf2"
             ],
-            "time": "2017-10-20T15:21:32+00:00"
+            "time": "2017-10-20 15:21:32"
         },
         {
             "name": "zendframework/zend-eventmanager",
@@ -2296,7 +2297,7 @@
                 "events",
                 "zf2"
             ],
-            "time": "2017-07-11T19:17:22+00:00"
+            "time": "2017-07-11 19:17:22"
         },
         {
             "name": "zendframework/zend-servicemanager",
@@ -2359,7 +2360,7 @@
                 "servicemanager",
                 "zf"
             ],
-            "time": "2017-03-01T22:08:02+00:00"
+            "time": "2017-03-01 22:08:02"
         },
         {
             "name": "zendframework/zend-stdlib",
@@ -2404,7 +2405,7 @@
                 "stdlib",
                 "zf2"
             ],
-            "time": "2016-09-13T14:38:50+00:00"
+            "time": "2016-09-13 14:38:50"
         }
     ],
     "packages-dev": [],

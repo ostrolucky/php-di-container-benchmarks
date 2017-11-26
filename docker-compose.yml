@@ -2,41 +2,10 @@ version: '2'
 
 services:
   cli:
-    image: php:7.1-alpine
-    container_name: benchmark-cli
-    networks:
-      - benchmark
+    build: simple
+    tty: true
+    working_dir: /code
     volumes:
       - .:/code:cached
     env_file:
       - .env
-    command: /code/build/container/cli/run.sh
-    depends_on:
-      - nginx
-
-  nginx:
-    image: nginx:1.13-alpine
-    container_name: benchmark-nginx
-    networks:
-      - benchmark
-    volumes:
-      - .:/code:cached
-    ports:
-      - "8090:80"
-    env_file:
-      - .env
-    command: /code/build/container/nginx/run.sh
-    depends_on:
-      - fpm
-
-  fpm:
-    build: ./
-    container_name: benchmark-fpm
-    networks:
-      - benchmark
-    env_file:
-      - .env
-    command: /code/build/container/fpm/run.sh
-
-networks:
-  benchmark:

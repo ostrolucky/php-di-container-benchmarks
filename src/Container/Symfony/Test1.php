@@ -12,6 +12,6 @@ class Test1 extends AbstractSymfonyTest
 
     public function run(): void
     {
-        $this->container->get('class10');
+        $this->container->get(\DiContainerBenchmarks\Fixture\Class10::class);
     }
 }
